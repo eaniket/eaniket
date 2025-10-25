@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate researcher, developer and a curious soul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaniket&label=Profile%20views&color=0e75b6&style=flat" alt="eaniket" /> </p>
 
@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/enigma__37" target="blank"><img src="https://img.shields.io/twitter/follow/enigma__37?logo=twitter&style=for-the-badge" alt="enigma__37" /></a> </p>
 
-- 🔭 I’m currently working at **JP Morgan Chase & Co.**
+- 🎓 Graduate Student at **UC San Diego**.
+  
+- 🔭 I have worked at **JP Morgan Chase & Co.** for 4 years. **Fun fact:** Most of the tiles you see on your Chase account dashboard is developed by me.
 
 - 📝 I regularly write articles on [https://substack.com/@enigma37](https://substack.com/@enigma37)
 
